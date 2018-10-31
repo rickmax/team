@@ -1,4 +1,10 @@
-# staff
+# Team Manager with Vue Js
+
+## Dependecies
+
+Before installation make sure to Node (10.0.5) and Vue (3.0.5) installed and up.
+
+- This project was make with Vuetify and Materialize Styles.
 
 ## Project setup
 ```
@@ -24,3 +30,6 @@ npm run test
 ```
 npm run lint
 ```
+## Credits
+
+- [Henrique Max](https://henriquemax.com.br)
