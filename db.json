@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rick Max",
+      "occupation": "32"
+    },
+    {
+      "id": 2,
+      "name": "Dany Max",
+      "occupation": "33"
+    }
+  ],
+  "task": [
+    {
+      "id": 1,
+      "name": "Task1",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Task2",
+      "userId": 2
+    }
+  ]
+}
